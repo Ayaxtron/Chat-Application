@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - MarqueeLabel/Swift (3.2.1)
+  - NotificationBannerSwift (1.7.3):
+    - MarqueeLabel/Swift (~> 3.2.0)
+    - SnapKit (~> 4.0.1)
+  - PusherSwift (5.1.1)
+  - SnapKit (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - NotificationBannerSwift (~> 1.7.3)
+  - PusherSwift (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - PusherSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  MarqueeLabel: 2daf039bf916937c8a4c9adfc13577cc5e51b4ce
+  NotificationBannerSwift: c9f4bc868d78df975ed59c0b2fccdbbe0e863efe
+  PusherSwift: de9238b6b9faec5275d452e5f43ce9c82b78731e
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+
+PODFILE CHECKSUM: 123a80ca6dbbbe1f4c7339077b4c81ede1d79505
+
+COCOAPODS: 1.8.4
